@@ -76,7 +76,7 @@ Python file : **my_script.py** is created
 ----
 ### Run The Script
 
-    Right click inside the script (or on teh file name)
+    Right click inside the script (or on the file name)
         => Run 'my_script'
         
 ![alt text](./images/new_prj/new_prj8.png "Run script")
