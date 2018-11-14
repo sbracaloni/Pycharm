@@ -314,3 +314,82 @@ You can inspect expression
 ----
  Use the debugger to fix the code!
  All tests must succeed.
+ 
+---
+Tips and Tricks
+---------------
+
+All Keymap can be customized in **Settings** => **Keymap**
+
+----
+Tips and Tricks
+---------------
+
+- Multiple selection, default keymap: Alt+J
+
+        Go to `prj4/tests/game/test_find_number.py`
+
+then select the first **assert**
+
+
+----
+
+Then press Alt+J
+![alt text](./images/tips_and_tricks/img4.png "extended selection")
+
+----
+Tips and Tricks
+---------------
+- Extended Selection, default keymap: Ctrl+W
+
+        Go to `prj4/tests/game/test_find_number.py` line 22 to try it.
+
+![alt text](./images/tips_and_tricks/img1.png "extended selection")
+![alt text](./images/tips_and_tricks/img2.png "extended selection")
+![alt text](./images/tips_and_tricks/img3.png "extended selection")
+
+Each time you press 'Ctrl+W' the selection is extended to the next delimiter.
+
+
+----
+Tips and Tricks
+---------------
+- Refactor rename, default keymap: Shift+F6
+
+>See also right click -> refactor
+
+----
+Tips and Tricks
+---------------
+
+- Commenter, default keymap: Ctrl + /
+
+> See also: menu "Code"
+
+----
+Tips and Tricks
+---------------
+
+- Install an overview window plugin: CodeGlance
+
+        Go to `Setting => Plugins` 
+
+----
+Search **CodeGlance**, there is no result because it is not installed.
+![alt text](./images/tips_and_tricks/img5.png "extended selection")
+
+----
+Click on **Search in repositories**.
+![alt text](./images/tips_and_tricks/img6.png "extended selection")
+
+----
+Restart Pycharm
+![alt text](./images/tips_and_tricks/img7.png "extended selection")
+
+----
+Tips and Tricks
+---------------
+
+- Install a keymap promoter plugin: Key Promoter
+
+The process is the same as for CodeGlance plugin.
